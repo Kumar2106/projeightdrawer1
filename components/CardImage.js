@@ -20,7 +20,7 @@ export default class CardImage extends Component {
                 </Left>
               </CardItem>
               <CardItem cardBody>
-                <Image source={require('./profilepic.jpeg')} style={{height: 200, width: null, flex: 1}}/>
+                <Image source={require('./profilepic.jpeg')} style={{height: 200, width: null, flex: 1, borderRadius: 30}}/>
               </CardItem>
               <CardItem>
                 <Left>
