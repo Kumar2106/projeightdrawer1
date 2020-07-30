@@ -8,7 +8,6 @@ export default class CardImage extends Component {
   render() {
     return (
       <Container>
-          <Header />
           <Content>
             <Card>
               <CardItem>
